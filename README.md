@@ -1,4 +1,4 @@
-# 🌐 Space Huggers
+# 🌐 Space
 
 ![Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW95bWJ5ajhybzdlamRjNzZvM2ZpdG5mZHV1OTg0NDN6ZTZhaWhkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iy1DPCfobWsxOco/giphy.gif)
 
